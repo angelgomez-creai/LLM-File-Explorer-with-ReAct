@@ -4,6 +4,8 @@ ReAct is a technique that allows an LLM Model to interact with the environment a
 
 Also, one of the principal problems of modern-day information searchers such as RAG techniques is that they require preprocessing all the available information in order to give proper answers, which can be problematic in environments where data is constantly changing or with highly large quantities of data where the search can be slow.
 
+![LLM File Explorer with ReAct](ReadmeFiles/Image.png)
+
 Original paper: [ReAct: Synergizing Reasoning and Acting in Language Models](https://arxiv.org/abs/2210.03629)
 
 ## Installation
